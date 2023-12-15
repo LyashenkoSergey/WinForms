@@ -1,0 +1,11 @@
+C:\Users\938-8\OneDrive\Документы\Github\HomeWork\DZ13.12.23._Button\bin\Debug\DZ13.12.23._Button.exe.config
+C:\Users\938-8\OneDrive\Документы\Github\HomeWork\DZ13.12.23._Button\bin\Debug\DZ13.12.23._Button.exe
+C:\Users\938-8\OneDrive\Документы\Github\HomeWork\DZ13.12.23._Button\bin\Debug\DZ13.12.23._Button.pdb
+C:\Users\938-8\OneDrive\Документы\Github\HomeWork\DZ13.12.23._Button\obj\Debug\DZ13.12.23._Button.csproj.AssemblyReference.cache
+C:\Users\938-8\OneDrive\Документы\Github\HomeWork\DZ13.12.23._Button\obj\Debug\DZ13.12.23._Button.csproj.SuggestedBindingRedirects.cache
+C:\Users\938-8\OneDrive\Документы\Github\HomeWork\DZ13.12.23._Button\obj\Debug\DZ13._12._23._Button.Form1.resources
+C:\Users\938-8\OneDrive\Документы\Github\HomeWork\DZ13.12.23._Button\obj\Debug\DZ13._12._23._Button.Properties.Resources.resources
+C:\Users\938-8\OneDrive\Документы\Github\HomeWork\DZ13.12.23._Button\obj\Debug\DZ13.12.23._Button.csproj.GenerateResource.cache
+C:\Users\938-8\OneDrive\Документы\Github\HomeWork\DZ13.12.23._Button\obj\Debug\DZ13.12.23._Button.csproj.CoreCompileInputs.cache
+C:\Users\938-8\OneDrive\Документы\Github\HomeWork\DZ13.12.23._Button\obj\Debug\DZ13.12.23._Button.exe
+C:\Users\938-8\OneDrive\Документы\Github\HomeWork\DZ13.12.23._Button\obj\Debug\DZ13.12.23._Button.pdb

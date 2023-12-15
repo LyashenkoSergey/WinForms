@@ -1,0 +1,11 @@
+C:\Users\938-8\OneDrive\Документы\Github\HomeWork\DZ13.12.23_BirthDate\bin\Debug\DZ13.12.23_BirthDate.exe.config
+C:\Users\938-8\OneDrive\Документы\Github\HomeWork\DZ13.12.23_BirthDate\bin\Debug\DZ13.12.23_BirthDate.exe
+C:\Users\938-8\OneDrive\Документы\Github\HomeWork\DZ13.12.23_BirthDate\bin\Debug\DZ13.12.23_BirthDate.pdb
+C:\Users\938-8\OneDrive\Документы\Github\HomeWork\DZ13.12.23_BirthDate\obj\Debug\DZ13.12.23_BirthDate.csproj.AssemblyReference.cache
+C:\Users\938-8\OneDrive\Документы\Github\HomeWork\DZ13.12.23_BirthDate\obj\Debug\DZ13.12.23_BirthDate.csproj.SuggestedBindingRedirects.cache
+C:\Users\938-8\OneDrive\Документы\Github\HomeWork\DZ13.12.23_BirthDate\obj\Debug\DZ13._12._23_BirthDate.Form1.resources
+C:\Users\938-8\OneDrive\Документы\Github\HomeWork\DZ13.12.23_BirthDate\obj\Debug\DZ13._12._23_BirthDate.Properties.Resources.resources
+C:\Users\938-8\OneDrive\Документы\Github\HomeWork\DZ13.12.23_BirthDate\obj\Debug\DZ13.12.23_BirthDate.csproj.GenerateResource.cache
+C:\Users\938-8\OneDrive\Документы\Github\HomeWork\DZ13.12.23_BirthDate\obj\Debug\DZ13.12.23_BirthDate.csproj.CoreCompileInputs.cache
+C:\Users\938-8\OneDrive\Документы\Github\HomeWork\DZ13.12.23_BirthDate\obj\Debug\DZ13.12.23_BirthDate.exe
+C:\Users\938-8\OneDrive\Документы\Github\HomeWork\DZ13.12.23_BirthDate\obj\Debug\DZ13.12.23_BirthDate.pdb

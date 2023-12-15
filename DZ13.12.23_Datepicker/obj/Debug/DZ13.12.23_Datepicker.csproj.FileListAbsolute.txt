@@ -1,0 +1,11 @@
+C:\Users\938-8\OneDrive\Документы\Github\HomeWork\DZ13.12.23_Datepicker\bin\Debug\DZ13.12.23_Datepicker.exe.config
+C:\Users\938-8\OneDrive\Документы\Github\HomeWork\DZ13.12.23_Datepicker\bin\Debug\DZ13.12.23_Datepicker.exe
+C:\Users\938-8\OneDrive\Документы\Github\HomeWork\DZ13.12.23_Datepicker\bin\Debug\DZ13.12.23_Datepicker.pdb
+C:\Users\938-8\OneDrive\Документы\Github\HomeWork\DZ13.12.23_Datepicker\obj\Debug\DZ13.12.23_Datepicker.csproj.AssemblyReference.cache
+C:\Users\938-8\OneDrive\Документы\Github\HomeWork\DZ13.12.23_Datepicker\obj\Debug\DZ13.12.23_Datepicker.csproj.SuggestedBindingRedirects.cache
+C:\Users\938-8\OneDrive\Документы\Github\HomeWork\DZ13.12.23_Datepicker\obj\Debug\DZ13._12._23_Datepicker.Form1.resources
+C:\Users\938-8\OneDrive\Документы\Github\HomeWork\DZ13.12.23_Datepicker\obj\Debug\DZ13._12._23_Datepicker.Properties.Resources.resources
+C:\Users\938-8\OneDrive\Документы\Github\HomeWork\DZ13.12.23_Datepicker\obj\Debug\DZ13.12.23_Datepicker.csproj.GenerateResource.cache
+C:\Users\938-8\OneDrive\Документы\Github\HomeWork\DZ13.12.23_Datepicker\obj\Debug\DZ13.12.23_Datepicker.csproj.CoreCompileInputs.cache
+C:\Users\938-8\OneDrive\Документы\Github\HomeWork\DZ13.12.23_Datepicker\obj\Debug\DZ13.12.23_Datepicker.exe
+C:\Users\938-8\OneDrive\Документы\Github\HomeWork\DZ13.12.23_Datepicker\obj\Debug\DZ13.12.23_Datepicker.pdb
