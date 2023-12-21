@@ -1,0 +1,11 @@
+C:\Users\938-8\OneDrive\Документы\Github\WinForms\DZ24.12.23_ListBox\bin\Debug\DZ24.12.23_ListBox.exe.config
+C:\Users\938-8\OneDrive\Документы\Github\WinForms\DZ24.12.23_ListBox\bin\Debug\DZ24.12.23_ListBox.exe
+C:\Users\938-8\OneDrive\Документы\Github\WinForms\DZ24.12.23_ListBox\bin\Debug\DZ24.12.23_ListBox.pdb
+C:\Users\938-8\OneDrive\Документы\Github\WinForms\DZ24.12.23_ListBox\obj\Debug\DZ24.12.23_ListBox.csproj.AssemblyReference.cache
+C:\Users\938-8\OneDrive\Документы\Github\WinForms\DZ24.12.23_ListBox\obj\Debug\DZ24.12.23_ListBox.csproj.SuggestedBindingRedirects.cache
+C:\Users\938-8\OneDrive\Документы\Github\WinForms\DZ24.12.23_ListBox\obj\Debug\DZ24._12._23_ListBox.Anketa.resources
+C:\Users\938-8\OneDrive\Документы\Github\WinForms\DZ24.12.23_ListBox\obj\Debug\DZ24._12._23_ListBox.Properties.Resources.resources
+C:\Users\938-8\OneDrive\Документы\Github\WinForms\DZ24.12.23_ListBox\obj\Debug\DZ24.12.23_ListBox.csproj.GenerateResource.cache
+C:\Users\938-8\OneDrive\Документы\Github\WinForms\DZ24.12.23_ListBox\obj\Debug\DZ24.12.23_ListBox.csproj.CoreCompileInputs.cache
+C:\Users\938-8\OneDrive\Документы\Github\WinForms\DZ24.12.23_ListBox\obj\Debug\DZ24.12.23_ListBox.exe
+C:\Users\938-8\OneDrive\Документы\Github\WinForms\DZ24.12.23_ListBox\obj\Debug\DZ24.12.23_ListBox.pdb
