@@ -1,0 +1,11 @@
+C:\Users\938-8\OneDrive\Документы\Github\WinForms\DZ27.12-ProgressBar\bin\Debug\DZ27.12-ProgressBar.exe.config
+C:\Users\938-8\OneDrive\Документы\Github\WinForms\DZ27.12-ProgressBar\bin\Debug\DZ27.12-ProgressBar.exe
+C:\Users\938-8\OneDrive\Документы\Github\WinForms\DZ27.12-ProgressBar\bin\Debug\DZ27.12-ProgressBar.pdb
+C:\Users\938-8\OneDrive\Документы\Github\WinForms\DZ27.12-ProgressBar\obj\Debug\DZ27.12-ProgressBar.csproj.AssemblyReference.cache
+C:\Users\938-8\OneDrive\Документы\Github\WinForms\DZ27.12-ProgressBar\obj\Debug\DZ27.12-ProgressBar.csproj.SuggestedBindingRedirects.cache
+C:\Users\938-8\OneDrive\Документы\Github\WinForms\DZ27.12-ProgressBar\obj\Debug\DZ27._12_ProgressBar.Form1.resources
+C:\Users\938-8\OneDrive\Документы\Github\WinForms\DZ27.12-ProgressBar\obj\Debug\DZ27._12_ProgressBar.Properties.Resources.resources
+C:\Users\938-8\OneDrive\Документы\Github\WinForms\DZ27.12-ProgressBar\obj\Debug\DZ27.12-ProgressBar.csproj.GenerateResource.cache
+C:\Users\938-8\OneDrive\Документы\Github\WinForms\DZ27.12-ProgressBar\obj\Debug\DZ27.12-ProgressBar.csproj.CoreCompileInputs.cache
+C:\Users\938-8\OneDrive\Документы\Github\WinForms\DZ27.12-ProgressBar\obj\Debug\DZ27.12-ProgressBar.exe
+C:\Users\938-8\OneDrive\Документы\Github\WinForms\DZ27.12-ProgressBar\obj\Debug\DZ27.12-ProgressBar.pdb
